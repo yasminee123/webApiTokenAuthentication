@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="e1e198a0b3754d76b32da84413b51a15" Name="Diagram1" ZoomLevel="52">
+        <EntityTypeShape EntityType="COG_KSModel.F_COMPTETV" Width="1.5" PointX="3.375" PointY="0.75" />
+        <EntityTypeShape EntityType="COG_KSModel.F_CATALOGUEV" Width="1.5" PointX="3.25" PointY="4.625" />
+        <EntityTypeShape EntityType="COG_KSModel.F_DOCLIGNE" Width="1.5" PointX="7.375" PointY="0.75" />
+        <EntityTypeShape EntityType="COG_KSModel.F_LIVRAISON" Width="1.5" PointX="9.375" PointY="0.75" />
+        <EntityTypeShape EntityType="COG_KSModel.F_DOCREGL" Width="1.5" PointX="9.375" PointY="7.75" />
+        <EntityTypeShape EntityType="COG_KSModel.F_DOCCURRENTPIECE" Width="1.5" PointX="11.375" PointY="0.75" />
+        <EntityTypeShape EntityType="COG_KSModel.VM_Collaborateur" Width="1.875" PointX="0.75" PointY="0.75" />
+        <EntityTypeShape EntityType="COG_KSModel.F_DOCENTETE" Width="1.5" PointX="4.375" PointY="7.75" />
+        <EntityTypeShape EntityType="COG_KSModel.F_ARTSTOCK" Width="1.5" PointX="0.75" PointY="11.75" />
+        <EntityTypeShape EntityType="COG_KSModel.F_ARTCOMPTA" Width="1.5" PointX="11.375" PointY="9.75" />
+        <EntityTypeShape EntityType="COG_KSModel.F_FAMCOMPTA" Width="1.5" PointX="13.375" PointY="0.75" />
+        <EntityTypeShape EntityType="COG_KSModel.F_ARTICLE" Width="1.5" PointX="13.375" PointY="6.75" />
+        <EntityTypeShape EntityType="COG_KSModel.F_TAXE" Width="1.5" PointX="15.375" PointY="0.75" />
+        <EntityTypeShape EntityType="COG_KSModel.F_ARTCLIENT" Width="1.5" PointX="15.375" PointY="7.75" />
+        <EntityTypeShape EntityType="COG_KSModel.F_CREGLEMENT" Width="1.5" PointX="15.375" PointY="15.75" />
+        <EntityTypeShape EntityType="COG_KSModel.P_REGLEMENT" Width="1.5" PointX="17.375" PointY="0.75" />
+        <EntityTypeShape EntityType="COG_KSModel.F_POSITIONCOM" Width="1.625" PointX="0.75" PointY="4.75" />
+        <EntityTypeShape EntityType="COG_KSModel.VM_ClientInscri" Width="1.5" PointX="17.375" PointY="4.75" />
+        <EntityTypeShape EntityType="COG_KSModel.AssClientArt" Width="1.5" PointX="0.75" PointY="7.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
